@@ -49,7 +49,6 @@
 
 
 ### 예약화면
-
 ![예약1](https://user-images.githubusercontent.com/57476918/125679989-7c0c28b7-1263-4e1d-aba4-fb5f97c27a27.png)
 ![예약2](https://user-images.githubusercontent.com/57476918/125679981-d20db3b5-047d-4232-9f0a-dfa66eae9ffd.png)
 ![예약내역](https://user-images.githubusercontent.com/57476918/125679986-c1f03e49-c972-482a-81f8-407529f3dd9d.png)
@@ -64,11 +63,8 @@
 - 지난 예약을 클릭하면, 방문 목적을 작성할 수 있다. 
 
 <br/>
-<br/>
-<br/>
 
 ### 관리자
-
 ![관리자](https://user-images.githubusercontent.com/57476918/125680070-b340754e-04b0-4a88-8e78-d8d2afd2c921.png)
 <br/>
  - 관리자는 공유주차의 등록 신청 현황을 확인할 수 있다.
